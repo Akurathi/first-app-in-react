@@ -1,0 +1,12 @@
+#header{
+  text-align: center;
+}
+
+.personStyle{
+  display : inline-block;
+  margin : 10px;
+  border : 1px solid #eee;
+  width : 250px;
+  padding : 20px;
+  box-shadow : 0 2px 2px #ccc;
+}
